@@ -1,0 +1,18 @@
+
+
+#cabecalho {
+    height: 100px;
+    background-color: green;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#cabecalho h1 {
+    font-size: 36px;
+    color: white;
+
+    margin: 0px;
+}
